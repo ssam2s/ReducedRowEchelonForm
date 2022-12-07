@@ -1,8 +1,8 @@
 ### Convert Augmented Matrix to Reduce Row Echelon Form Matrix with pure python3 built-in functions
 
 - Input file's format should be .txt.
-- Input data should be written like this.
-<br/>
+- Input data should be written like this.<br/>
+
 #### --- Real Matrix ---<br/>
 3x^2 + 2y + 5z = 1<br/>
 4x^2 + 5y + 8z = 4<br/>
