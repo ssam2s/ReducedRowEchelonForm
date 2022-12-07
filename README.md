@@ -15,4 +15,4 @@
 2 1 3 7<br/>
 <br/>
 
-- It convert input matrix to RREF matrix and display it.
+- It converts input matrix to RREF matrix and display it.
