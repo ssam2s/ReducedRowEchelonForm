@@ -9,7 +9,7 @@
 2x^2 + y + 3z = 7<br/>
 <br/>
 
-#### -- Matrix in file ---<br/>
+#### --- Matrix in file ---<br/>
 3 2 5 1<br/>
 4 5 8 4<br/>
 2 1 3 7<br/>
