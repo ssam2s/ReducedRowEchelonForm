@@ -1,4 +1,4 @@
-### Convert Augmented Matrix to Reduce Row Echelon Form Matrix with pure python3 built-in functions
+#### Convert Augmented Matrix to Reduce Row Echelon Form Matrix with pure python3 built-in functions
 
 - Input file's format should be .txt.
 - Input data should be written like this.<br/>
